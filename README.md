@@ -27,6 +27,7 @@ I am building my cybersecurity skills through hands-on labs, practical projects,
 - Google Foundations of Cybersecurity
 - LPIC-1 Linux
 - Python
+- ICIP OPSWAT
 
 ---
 

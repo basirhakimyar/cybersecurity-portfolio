@@ -25,6 +25,8 @@ I am building my cybersecurity skills through hands-on labs, practical projects,
 ## Current Certifications
 
 - Google Foundations of Cybersecurity
+- Google Play It Safe Manage Security Risks
+- Google Connect and Protect Network Security
 - LPIC-1 Linux
 - Python
 - ICIP OPSWAT
